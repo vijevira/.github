@@ -34,6 +34,6 @@ Most projects here share a few common choices:
 
 ## About
 
-Maintained by Vijendra Kumar.
+Maintained by [Vijendra Kumar](https://github.com/vijevirat).
 
 [vijevira.in](https://vijevira.in) · [LinkedIn](https://www.linkedin.com/in/vijevira) · [vijevira@engineer.com](mailto:vijevira@engineer.com)
