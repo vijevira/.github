@@ -11,7 +11,7 @@ Everything here is live and deployed. No demos, no screenshots-only repos.
 | Project | What it is | Live |
 |---|---|---|
 | **Zyvora** | Jira-like project management — Kanban, sprints, timeline, multi-tenant RBAC, real-time collaboration | [zyvora.endra.in](https://zyvora.endra.in) |
-| **WatchTower** | Monitors pages, RSS feeds, and JSON APIs; delivers to Discord, Slack, and Telegram via a 3-stage job pipeline | [watchtower.wasmer.app](https://watchtower.wasmer.app) |
+| **WatchTower** | Monitors pages, RSS feeds, and JSON APIs; delivers to Discord, Slack, and Telegram via a 3-stage job pipeline | [watchtower.endra.in](https://watchtower.endra.in) |
 | **BlindShare** | Zero-persistence P2P sharing — files, text, code, secrets, view-once media, screen share. Nothing touches a server | [blindshare.in](https://blindshare.in) |
 | **BlindParty** | P2P watch party, video call, and group chat over a full WebRTC mesh | [party.blindshare.in](https://party.blindshare.in) |
 | **Chhakkadi** | Real-time platform for 3 Indian trick-taking card games, with bot AI and an Android build | [chhakkadi.endra.in](https://chhakkadi.endra.in) |
