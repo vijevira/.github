@@ -2,7 +2,7 @@
 
 Independent software projects — real-time multiplayer games, peer-to-peer tools, and self-hosted SaaS.
 
-Everything here is live and deployed. No demos, no screenshots-only repos.
+Everything here is live and deployed.
 
 ---
 
